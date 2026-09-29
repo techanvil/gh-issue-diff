@@ -1,0 +1,13 @@
+{
+  "name": "gh-issue-diff",
+  "version": "1.0.0",
+  "description": "Show changes to a GitHub issue's body since a given date or comment, via delta",
+  "type": "module",
+  "bin": {
+    "gh-issue-diff": "./gh-issue-diff.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
